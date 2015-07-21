@@ -1,6 +1,6 @@
 class TclTk < Formula
   homepage "http://www.tcl.tk/"
-  url "https://downloads.sourceforge.net/project/tcl/Tcl/8.6.4/tcl8.6.4-src.tar.gz"
+  url "http://prdownloads.sourceforge.net/tcl/tk8.6.4-src.tar.gz"
   version "8.6.4"
   sha256 "9e6ed94c981c1d0c5f5fefb8112d06c6bf4d050a7327e95e71d417c416519c8d"
 
